@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Dasari Jhansi </p>
+    <p><strong>Email ID:</strong> jhansig30fsd@gmail.com </p>
+    <p><strong>College Name:</strong> Gayatri Vidya Parishad College of Engineering for Women </p>
+    <p><strong>Branch/Specialization :</strong> B.Tech in Computer Science Engineering (Artificial Intelligence and Machine Learning) </p>
+    <p><strong>College ID:</strong> 323103282020 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Full Stack Development (G30 FSD) </p>
+    <p><strong>Instructor Name:</strong> Akshara Mam </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong>  6 months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Akshara Mam</p>
+<p><strong>Trainer Email ID:</strong> akshararajan26@gmail.com</p>
+<p><strong>Trainer Designation:</strong>  Software Developer at Propel Technology</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,54 +63,32 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+> 
+During my 4-month Full Stack Development internship at SureProEd, under the mentorship of Akshara, Software Developer at Propel Technologies, I developed a solid foundation in both front-end and back-end web development. I gained hands-on experience working with technologies such as HTML, CSS, JavaScript, React, and Angular, and enhanced my skills in using Git and GitHub for efficient version control and team collaboration.
+
+This internship provided me with valuable exposure to real-world development practices, improved my problem-solving skills, and boosted my confidence in building responsive and user-centric web applications.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> MindCare: Digital Mental Health and Psychological Support System for Students in Higher Education</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: MindCare: Digital Mental Health and Psychological Support System for Students in Higher Education</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  MindCare is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application that addresses this challenge through an integrated suite of evidence-based digital mental health tools. The platform provides students with 24/7 access to an AI-powered chatbot built on Google Gemini AI, clinically validated PHQ-9 and GAD-7 psychological assessment tools, a daily mood tracking system with visual analytics, and a streamlined appointment booking system connecting students with certified counsellors.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/DASARI-JHANSI-g30-fsd/blob/bb5563c5b1f699ffdd0e98f3ff1a31c1b34059a5/Course%20report/Jhansi%20G30-FSD.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
+
+
+
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
@@ -125,31 +103,29 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+I have attended all the LST sessions so far, and I truly appreciate the effort you are putting into providing Life Skill Development training free of cost. These sessions have been extremely valuable for my personal growth and well-being. I’m happy to share that they have helped me learn a lot, and I now feel more confident and prepared to handle life’s challenges.
 
 ## **Community Services**
 
 <!-- add descreption in your own words -->
+I am truly happy to contribute to society using my strengths, and I am always willing to do so. However, one thing I have often hesitated about is taking pictures during such activities.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented activities. These experiences strengthened my willingness and commitment to serve society in a meaningful way using my own abilities.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
  <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
   <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Helping Elder Citizens** – Assisted four elderly individuals with simple daily tasks and provided support where needed.
+
+My efforts may not have made a large-scale impact, but the joy I brought to even a few lives is something I will always be proud of.
 
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
@@ -162,13 +138,12 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://private-user-images.githubusercontent.com/238854968/586862691-15eee50a-3aa1-4d6f-a8f4-24f045a763ca.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc4MjkwNDksIm5iZiI6MTc3NzgyODc0OSwicGF0aCI6Ii8yMzg4NTQ5NjgvNTg2ODYyNjkxLTE1ZWVlNTBhLTNhYTEtNGQ2Zi1hOGY0LTI0ZjA0NWE3NjNjYS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDUwMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA1MDNUMTcxOTA5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NzFlNzE0ODFlYmQwMDFhNTY4MDFjZGI1ZGQ5YTJmZjFkYmRlMDFjNGE5N2MxZDlmYTBiZDlkZjI3NDk3NDIxNCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.dMkHmb7jFbEjVO0HzdBgqRCAIxYWN9WT76oKTOibByk" alt="Community Service Photo 1" width="30%">
+<img src="https://private-user-images.githubusercontent.com/238854968/586862720-0fb0e06d-42c8-4dbe-9787-89358647de5a.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc4MjkwNDksIm5iZiI6MTc3NzgyODc0OSwicGF0aCI6Ii8yMzg4NTQ5NjgvNTg2ODYyNzIwLTBmYjBlMDZkLTQyYzgtNGRiZS05Nzg3LTg5MzU4NjQ3ZGU1YS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDUwMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA1MDNUMTcxOTA5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9M2QyY2IwYjQ2MDRjYjY4MTY3MmNhNjAzMjY3ZWQ3MWViNjNiNjdhNzhhMDA0NzIyNzY5MTQ4OTY1ZGU1OGYxNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.-R9Uv6CSqGKVhc9cITY4PdGCA-upPruBlIsoEblat2s" alt="Community Service Photo 2" width="30%">
+
 </div>
 
 ---
-
 ## **Certificate**
 
 The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
@@ -182,7 +157,9 @@ The internship certificate serves as an official acknowledgment of the successfu
 ---
 
 ## **Acknowledgments**
+My sincere thanks to Akshara mam and Radhakumari mam for considering me to complete this internship with true dedication and determination.
 
+  Ms. Akshara , Software Developer at Propel Technology
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
