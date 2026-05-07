@@ -139,7 +139,7 @@ My efforts may not have made a large-scale impact, but the joy I brought to even
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/78359602-094c-40c5-a3cd-83b7df294ca9" alt="Community Service Photo 1" width="30%">
-<img src="https://private-user-images.githubusercontent.com/238854968/586862720-0fb0e06d-42c8-4dbe-9787-89358647de5a.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc4MjkwNDksIm5iZiI6MTc3NzgyODc0OSwicGF0aCI6Ii8yMzg4NTQ5NjgvNTg2ODYyNzIwLTBmYjBlMDZkLTQyYzgtNGRiZS05Nzg3LTg5MzU4NjQ3ZGU1YS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDUwMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA1MDNUMTcxOTA5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9M2QyY2IwYjQ2MDRjYjY4MTY3MmNhNjAzMjY3ZWQ3MWViNjNiNjdhNzhhMDA0NzIyNzY5MTQ4OTY1ZGU1OGYxNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.-R9Uv6CSqGKVhc9cITY4PdGCA-upPruBlIsoEblat2s" alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/user-attachments/assets/471f5d2f-cf1b-43a9-8a80-2351777e3160" alt="Community Service Photo 2" width="30%">
 
 <img src="https://github.com/user-attachments/assets/18c5889d-551b-48f0-84ad-9bd63b066a33" alt="Community Service Photo 3" width="30%">
 
